@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNetCoreIdentityCustom", "ASPNetCoreIdentityCustom\ASPNetCoreIdentityCustom.csproj", "{097698E0-7FBC-4546-B85B-A1A6BDA9B864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{097698E0-7FBC-4546-B85B-A1A6BDA9B864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097698E0-7FBC-4546-B85B-A1A6BDA9B864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097698E0-7FBC-4546-B85B-A1A6BDA9B864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097698E0-7FBC-4546-B85B-A1A6BDA9B864}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {729B1B74-F673-4A97-9C54-5E16E144AA05}
+	EndGlobalSection
+EndGlobal
